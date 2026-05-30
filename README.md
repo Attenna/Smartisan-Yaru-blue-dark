@@ -1,7 +1,7 @@
-```markdown
 # Smartisan-Yaru-blue-dark 图标主题
 
 > 一个基于 Ubuntu Yaru 主题深度定制的图标包，融合锤子科技 Smartisan 设计风格
+## 图标包适配是个漫长的过程，欢迎自定义你的图标包并pr！
 
 ## 📸 预览
 
@@ -114,6 +114,9 @@ MIT License
 
 - [Ubuntu Yaru](https://github.com/ubuntu/yaru) 主题团队
 - 锤子科技 Smartisan OS 设计团队（设计灵感来源）
+- [【图标分享】锤子科技SmartisanOS拟物图标 ](https://bbs.deepin.org.cn/zh/post/194268) Deepin 论坛帖子
+- [smartisan-icon](https://github.com/ali-pay/smartisan-icon) Github 项目
+- [DtkSmartisanosLogo]https://gitee.com/thegodofhou/DtkSmartisanosLogo 来自houyawei的开源项目
 
 ## 📞 联系方式
 
@@ -123,4 +126,5 @@ MIT License
 ---
 
 ## ⭐ 如果觉得有用，请给个 Star！
+## 图标包适配是个漫长的过程，欢迎自定义你的图标包并pr！
 ```
